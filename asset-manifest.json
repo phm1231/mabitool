@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mabitool/static/css/main.f9eacbaf.css",
-    "main.js": "/mabitool/static/js/main.504ef084.js",
+    "main.js": "/mabitool/static/js/main.6a785464.js",
     "static/js/787.e7b59482.chunk.js": "/mabitool/static/js/787.e7b59482.chunk.js",
     "index.html": "/mabitool/index.html",
     "main.f9eacbaf.css.map": "/mabitool/static/css/main.f9eacbaf.css.map",
-    "main.504ef084.js.map": "/mabitool/static/js/main.504ef084.js.map",
+    "main.6a785464.js.map": "/mabitool/static/js/main.6a785464.js.map",
     "787.e7b59482.chunk.js.map": "/mabitool/static/js/787.e7b59482.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9eacbaf.css",
-    "static/js/main.504ef084.js"
+    "static/js/main.6a785464.js"
   ]
 }
