@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mabitool/static/css/main.f9eacbaf.css",
+    "main.js": "/mabitool/static/js/main.98a4a3ba.js",
+    "static/js/787.e7b59482.chunk.js": "/mabitool/static/js/787.e7b59482.chunk.js",
+    "index.html": "/mabitool/index.html",
+    "main.f9eacbaf.css.map": "/mabitool/static/css/main.f9eacbaf.css.map",
+    "main.98a4a3ba.js.map": "/mabitool/static/js/main.98a4a3ba.js.map",
+    "787.e7b59482.chunk.js.map": "/mabitool/static/js/787.e7b59482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9eacbaf.css",
+    "static/js/main.98a4a3ba.js"
+  ]
+}
